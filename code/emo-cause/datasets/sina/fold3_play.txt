@@ -1,0 +1,16 @@
+ (12,12)
+1,null,null,2002 年 6 月 3 日 上午
+2,null,null,当值 的 曾 友蔚 接报
+3,null,null,狮 山镇 小塘 走马 营村 一 树林 里 有 一名 年仅 2 岁 多 的 小男孩 躺 在 草地 上
+4,null,null,无人认领
+5,null,null,曾友蔚 立即 赶到 现场 处置
+6,null,null,只见 林中 的 草地 上
+7,null,null,小男孩 被包 在 一条 毛巾 里
+8,null,null,很 孱弱
+9,null,null,不 哭 也 不 闹
+10,null,null,小 眼珠子 静静地 望 着 眼前 的 警察 叔叔
+11,null,null,曾友蔚 打开 包裹 着 的 围巾
+12,sadness,心疼,小男孩 胸口 蔫 瘦 得 让 人 心疼
+13,null,null,贴身 处有 一张 写 着 出生年月 的 纸条 和 一封 利 是
+14,null,null,曾友蔚 意识 到
+15,null,null,这 可能 是 个 因病 被 弃 的 孩子

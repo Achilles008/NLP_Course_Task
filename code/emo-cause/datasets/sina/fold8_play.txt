@@ -1,0 +1,14 @@
+10 12
+ (5,4)
+1,null,null,为了 坚持 到 妻子 入户
+2,null,null,老 吴 已经 用尽 了 全力
+3,null,null,老 吴 因为 其 抗癌 事迹 广为人知
+4,null,null,如果 老 吴 长时间 不 更新 微博
+5,fear,担心,就 会 有 网友 担心 老 吴 是不是 去 了
+6,null,null,2013 年底
+7,null,null,老 吴 两个 多月 没有 更新 微博
+8,null,null,有 网友 担心 地问 他 近况 如何
+9,null,null,看到 网友 的 发问
+10,null,null,正在 经历 靶向 药 耐药性 剧痛 期 的 他
+11,null,null,还是 努力 地 敲 下 了 四个 字 活着
+12,null,null,活着

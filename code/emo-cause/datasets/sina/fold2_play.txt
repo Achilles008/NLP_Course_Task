@@ -1,0 +1,11 @@
+2 9
+ (9,8)
+1,null,null,据 白金 跃 介绍
+2,null,null,自 1988 年 至今
+3,null,null,他 向 国家 各部委 提出 合理化 建议 1000 多条
+4,null,null,并 多次 被 各部委 采纳
+5,null,null,曾 荣获 国家 十二五 建言献策 个人 一等奖 河北省 建言献策 三等奖
+6,null,null,当日
+7,null,null,跟 中新网 记者 谈起 建言献策 的 初衷
+8,null,null,白金 跃 陷入 回忆
+9,happiness,激动,并 略显 激动

@@ -1,0 +1,11 @@
+ (7,7), (7,8)
+1,null,null,目前 全家 依靠 她 两千多元 工资 生活
+2,null,null,看病 已 负债累累
+3,null,null,如果 我 不 在 了
+4,null,null,妻子 没有 深圳 户籍
+5,null,null,日子 会 更 难
+6,null,null,总之 是 无奈 和 心酸
+7,happiness,感谢,但 我 也 很 感谢 那些 帮助 我 的 网友 义工 宁养院
+8,null,null,还有 家人 的 不离 不弃
+9,null,null,我 现在 只能 咬牙 继续 坚持
+10,null,null,希望 能够 达成 心愿
